@@ -1,6 +1,8 @@
 # My_Roll_A_Ball
 
-Nome do jogo: Where's 8 One?
+## Nome do jogo: Where's 8 One?
+
+OBS: códigos utilizados para a criação do jogo estão disponíveis na pasta `Assets/Scripts` ou `Assets\Scenes\`.
 
 Descrição: em um belo dia com sol e nuvens no céu, você iria jogar uma partida de bilhar com seus amigos quando percebe que, ao por as bolas na mesa, a bola 8 sumiu! Quer saber onde ela se encontrava? Jogue e descubra!
 
