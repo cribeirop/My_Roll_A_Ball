@@ -33,3 +33,7 @@ Por fim, a bola 8 deverá chegar onde ela sempre quis: no paraíso dos gizes!
 <img src="./img/texto_5.jpg/" width="650" height="425">
 
 Não julgue o jogo pela sua simplicidade, pois ele pode ser mais desafiador do que parece. Perdeu três vidas, já era! O jogo acaba e você terá que recomeçar.
+
+### Referência
+
+Tutorial Roll a Ball: https://learn.unity.com/project/roll-a-ball
