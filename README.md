@@ -2,7 +2,9 @@
 
 ## Nome do jogo: Where's 8 One?
 
-OBS: códigos utilizados para a criação do jogo estão disponíveis na pasta `Assets/Scripts` ou `Assets\Scenes\`.
+## Autor: Caio Ribeiro de Paula
+
+OBS: códigos utilizados para a criação do jogo estão disponíveis na pasta `Assets/Scripts` ou `Assets\Scenes\`. O vídeo do jogo se encontra no link https://www.youtube.com/watch?v=frHTpkurIEs.
 
 Descrição: em um belo dia com sol e nuvens no céu, você iria jogar uma partida de bilhar com seus amigos quando percebe que, ao por as bolas na mesa, a bola 8 sumiu! Quer saber onde ela se encontrava? Jogue e descubra!
 
@@ -34,6 +36,7 @@ Por fim, a bola 8 deverá chegar onde ela sempre quis: no paraíso dos gizes!
 
 Não julgue o jogo pela sua simplicidade, pois ele pode ser mais desafiador do que parece. Perdeu três vidas, já era! O jogo acaba e você terá que recomeçar.
 
-### Referência
+## Referência
 
-Tutorial Roll a Ball: https://learn.unity.com/project/roll-a-ball
+- Tutorial Roll a Ball: https://learn.unity.com/project/roll-a-ball
+- Assets: https://assetstore.unity.com/
